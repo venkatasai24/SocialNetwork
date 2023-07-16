@@ -22,6 +22,23 @@ The Social Network project utilizes the following data structures and algorithms
 - User information: Users can get information about their account, such as the number of friends.
 - Saving and Retrieving Data: The project allows users to save their social network data to a file and retrieve it later for continued usage.
 
+## Getting Started
+
+To run the social network project, follow these steps:
+
+- Clone the repository to your local machine.<pre>`git clone https://github.com/venkatasai24/SocialNetwork.git
+`</pre>
+- Navigate to the project directory.
+- Compile the source code using a C++ compiler. <pre>```g++ main.cpp -o SocialNetwork```</pre>
+- Run the executable file generated after compilation.<pre>`./SocialNetwork`</pre>
+- Follow the on-screen instructions to interact with the social network.
+
+## Retrieving Past Data
+If you have previously saved social network data, you can retrieve it by following these steps:
+
+- Ensure that the data file (VS_SocialNetwork_data.txt) is present in the project directory.
+- The program will read the data from the file and populate the social network with the saved information.
+
 ## Contributing
 
 Contributions to the Social Network project are welcome. If you want to contribute, please fork the repository and create a pull request with your proposed changes.
