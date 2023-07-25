@@ -4,10 +4,10 @@ This is a Social Network project implemented in C++. It utilizes various data st
 
 ## Images
 
-![Image Description](images/p1.png)
-![Image Description](images/p2.png)
-![Image Description](images/p3.png)
-![Image Description](images/p4.png)
+![Image Description](images/p1.png)<hr>
+![Image Description](images/p2.png)<hr>
+![Image Description](images/p3.png)<hr>
+![Image Description](images/p4.png)<hr>
 
 ## Data Structures and Algorithms
 
