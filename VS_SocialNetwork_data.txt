@@ -1,8 +1,0 @@
-Captain America:Bucky
-Spiderman:Iron man,Black panther
-Black panther:Spiderman,Natasha
-Natasha:Black panther
-Iron man:Spiderman
-Ant man:Scarlet witch,Bucky
-Scarlet witch:Ant man
-Bucky:Ant man,Captain America
