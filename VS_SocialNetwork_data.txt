@@ -1,0 +1,9 @@
+Thanos:
+Natasha:Black panther
+Black panther:Spider man,Natasha
+Spider man:Iron man,Black panther
+Scarlet witch:Ant man
+Bucky:Captain America,Ant man
+Captain America:Bucky
+Iron man:Spider man
+Ant man:Bucky,Scarlet witch
