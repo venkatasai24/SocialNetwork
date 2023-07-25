@@ -2,6 +2,13 @@
 
 This is a Social Network project implemented in C++. It utilizes various data structures and algorithms to provide functionalities for creating user accounts, managing friend connections, and analyzing social relationships.
 
+## Images
+
+![Image Description](images/p1.png)
+![Image Description](images/p2.png)
+![Image Description](images/p3.png)
+![Image Description](images/p4.png)
+
 ## Data Structures and Algorithms
 
 The Social Network project utilizes the following data structures and algorithms:
@@ -21,10 +28,12 @@ The Social Network project utilizes the following data structures and algorithms
 - Saving and Retrieving Data: The project allows users to save their social network data to a file and retrieve it later for continued usage.
 
 ## Retrieving Past Data
+
 If you have previously saved social network data, you can retrieve it by following these steps:
 
 - Ensure that the data file (VS_SocialNetwork_data.txt) is present in the project directory.
 - The program will read the data from the file and populate the social network with the saved information.
+
 
 ## Getting Started
 
